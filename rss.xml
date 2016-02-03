@@ -4,7 +4,7 @@
         <description><![CDATA[Button Royale]]></description>
         <link>https://thegrid.ai/buttonroyale/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 20:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 20:38:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/buttonroyale/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/buttonroyale/529543a0-1ae9-4fd6-94fc-d4786bcfe7b2/index.html</link>
             <guid isPermaLink="false">529543a0-1ae9-4fd6-94fc-d4786bcfe7b2</guid>
             <pubDate>Wed, 03 Feb 2016 20:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bcc36ad-5403-4bd9-b8a9-b2ffe95a996d.jpg">]]></description>
-            <link>https://thegrid.ai/buttonroyale/99fd733f-3846-4466-811b-cf52f2adb0b4/index.html</link>
-            <guid isPermaLink="false">99fd733f-3846-4466-811b-cf52f2adb0b4</guid>
-            <pubDate>Tue, 02 Feb 2016 15:11:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
