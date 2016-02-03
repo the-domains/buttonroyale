@@ -1,7 +1,7 @@
 name: buttonroyale
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.13357
+layout_spectrum: 0.46931
+typography_spectrum: 0.68712
 title: Button Royale
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#847b72'
     - '#a99f96'
     - '#222121'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.20113150193355978
-  saturation: 0.6875
-  rhythmicContrast: 0
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
